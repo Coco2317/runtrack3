@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    transition: all 0.5s ease;
+}
+
+body.konami {
+    background: linear-gradient(135deg, #1e1e2e, #2e3a7c, #3f51b5);
+    color: white;
+    text-align: center;
+    flex-direction: column;
+}
+
+body.konami h1 {
+    font-size: 2.5rem;
+    color: #ff6b00; 
+    margin-bottom: 10px;
+}
+
+body.konami p {
+    font-size: 1.2rem;
+    color: #ffffffcc;
+}
