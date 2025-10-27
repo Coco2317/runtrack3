@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": { "english": "Bulbasaur" },
+        "type": ["Grass", "Poison"]
+    },
+    {
+        "id": 4,
+        "name": { "english": "Charmander" },
+        "type": ["Fire"]
+    },
+    {
+        "id": 7,
+        "name": { "english": "Squirtle" },
+        "type": ["Water"]
+    },
+    {
+        "id": 10,
+        "name": { "english": "Caterpie" },
+        "type": ["Bug"]
+    },
+    {
+        "id": 25,
+        "name": { "english": "Pikachu" },
+        "type": ["Electric"]
+    },
+    {
+        "id": 133,
+        "name": { "english": "Eevee" },
+        "type": ["Normal"]
+    }
+]
